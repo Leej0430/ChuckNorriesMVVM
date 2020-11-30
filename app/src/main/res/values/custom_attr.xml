@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JokeDisplay">
+
+    <attr name="text_joke_display" format="string"/>
+    <attr name="size_joke_display" format="dimension"/>
+    <attr name="android:textStyle" format="reference"/>
+    <attr name="background_card_view_display" format="color"/>
+    <attr name="cardElevation" format="dimension"/>
+
+    </declare-styleable>
+</resources>
